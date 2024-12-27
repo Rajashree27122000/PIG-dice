@@ -93,7 +93,7 @@ print("\nGame over! Thanks for playing.")
 
 
 
-Features to Add
+## Features to Add
 A scoring history for both the player and the computer.
 Options to restart or quit the game after each match.
 Multiplayer mode for multiple human players.
